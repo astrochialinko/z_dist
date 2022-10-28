@@ -1,0 +1,12 @@
+zestimator/
+z_evaluator.egg-info/
+notebooks/.ipynb_checkpoints/
+dist/
+__pycache__/
+dist_code.egg-info/
+.DS_Store
+*.png
+*.pdf
+data/*
+*.pk
+*.npy
